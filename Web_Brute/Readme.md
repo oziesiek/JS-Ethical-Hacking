@@ -14,6 +14,16 @@ This program provides functionality for performing Brute Force and Dictionary at
   - Performs a dictionary attack using a provided wordlist file.
   - Differentiation methods: String matching or HTTP status code check.
   - Customizable success differentiator and status codes.
+ 
+## Dependencies
+Make sure you have the following dependencies installed before running the script:
+- [axios](https://www.npmjs.com/package/axios): Used for making HTTP requests.
+- [readline-sync](https://www.npmjs.com/package/readline-sync): Used for synchronous user input.
+- [fs](https://nodejs.org/api/fs.html): Filesystem module for reading the dictionary file.
+- [colors](https://www.npmjs.com/package/colors): Used for adding colors to console output.
+
+To install the dependencies, run the following command:
+npm install axios readline-sync fs colors
 
 ## Usage
 
