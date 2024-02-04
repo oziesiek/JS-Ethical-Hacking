@@ -26,4 +26,4 @@ Disclaimer
 
 The creator of this repository bears no responsibility for any misuse or consequences arising from the use of the toolkit. By accessing and using these features, you accept and acknowledge the risks associated with ethical hacking activities.
 
-Happy learning and exploring the exciting world of JavaScript security!
+Happy learning and exploring the world of JavaScript security!
