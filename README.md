@@ -6,7 +6,8 @@ Contents
 The repository currently includes the following features:
 
     🛡️ Web Brute - Force and Dictionary Attack tool 
-
+    💣 DoS attack - Overwhelm a system's resources to disrupt or deny services
+    
 
 Usage
 
