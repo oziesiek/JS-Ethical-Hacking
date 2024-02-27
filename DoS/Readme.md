@@ -12,7 +12,10 @@ Features
 
 Usage
 
-Clone the repository Install npm Run the attack - node DOS.js Follow the prompts to input the target address and the number of workers.
+Clone the repository 
+Install npm 
+Run the attack - node DoS.js 
+Follow the prompts to input the target address and the number of workers.
 
 Important Notes
 
