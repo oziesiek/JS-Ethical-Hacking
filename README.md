@@ -4,7 +4,7 @@ Welcome to the JavaScript Security Toolkit repository! This collection comprises
 Contents
 
 The repository currently includes the following features:
-
+    🍪 Stealer - Steal cookies from websites and send them to a remote server
     🛡️ Web Brute - Force and Dictionary Attack tool 
     💣 DoS attack - Overwhelm a system's resources to disrupt or deny services
     
