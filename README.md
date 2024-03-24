@@ -5,10 +5,10 @@ Contents
 
 The repository currently includes the following features:
 
-    🍪 Stealer - Steal cookies from websites and send them to a remote server
-    🛡️ Web Brute - Force and Dictionary Attack tool 
+    🛡️ Web Brute - Force and Dictionary Attack tool
     💣 DoS attack - Overwhelm a system's resources to disrupt or deny services
-    
+    🍪 Stealer - Steal cookies from websites and send them to a remote server
+    🚀 Exploit Server - Speedy and reliable Node.js server for logging cookies and other data sent via POST requests.
 
 Usage
 
