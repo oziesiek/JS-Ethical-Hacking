@@ -9,6 +9,7 @@ The repository currently includes the following features:
     💣 DoS attack - Overwhelm a system's resources to disrupt or deny services
     🍪 Stealer - Steal cookies from websites and send them to a remote server
     🚀 Exploit Server - Speedy and reliable Node.js server for logging cookies and other data sent via POST requests.
+    🖱️ Keylogger - simple keylogger that captures keystrokes and sends them to a specified server endpoint.
 
 Usage
 
