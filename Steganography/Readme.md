@@ -10,7 +10,7 @@ This Node.js script allows you to embed a string into an image file using stegan
 
 npm install
 
-    Run the script:
+    Run the script: node tool.js
 
 node embed.js
 
