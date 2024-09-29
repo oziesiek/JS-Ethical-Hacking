@@ -6,6 +6,7 @@ Contents
 The repository currently includes the following features:
 
     🛡️ Web Brute - Force and Dictionary Attack tool
+    🕵️‍♂️ Clickjacking - attacker overlays a transparent button on a vulnerable website to trigger unwanted actions.
     💣 DoS attack - Overwhelm a system's resources to disrupt or deny services
     🍪 Stealer - Steal cookies from websites and send them to a remote server
     🚀 Exploit Server - Speedy and reliable Node.js server for logging cookies and other data sent via POST requests.
