@@ -21,10 +21,6 @@ This repository contains a demonstration of a **Clickjacking Attack** using a vu
 To run this demonstration locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
-   cd repository-name
-   ```
 
 2. Open `vulnerable_website.html` in your web browser.
 
@@ -38,12 +34,6 @@ This demonstration is for educational purposes only. Do not use this knowledge f
 ## 💬 Contributing
 Feel free to open issues or submit pull requests if you have suggestions for improvements or additional features!
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📧 Contact
-For any inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
 ---
 
-Happy Learning! 🎉
+Happy Hacking! 🎉
