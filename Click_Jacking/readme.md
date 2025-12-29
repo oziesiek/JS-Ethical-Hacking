@@ -1,4 +1,4 @@
-# 🚨 Clickjacking Demonstration 🚨
+#  Clickjacking Demonstration 
 
 ## Overview
 This repository contains a demonstration of a **Clickjacking Attack** using a vulnerable website and an attacker website. Clickjacking is a malicious technique where an attacker tricks a user into clicking on something different from what the user perceives, potentially leading to unauthorized actions.
@@ -7,7 +7,7 @@ This repository contains a demonstration of a **Clickjacking Attack** using a vu
 - **vulnerable_website.html**: The vulnerable website that hosts an iframe pointing to the attacker website.
 - **attacker_website.html**: The attacker's website that performs the clickjacking attack by overlaying a transparent button over the content.
 
-## 🔍 How It Works
+##  How It Works
 1. **Vulnerable Website**: 
    - The `vulnerable_website.html` file contains an iframe that loads the `attacker_website.html`. This allows the attacker to manipulate the user's interaction with the vulnerable site.
 
@@ -17,7 +17,7 @@ This repository contains a demonstration of a **Clickjacking Attack** using a vu
 3. **Demonstration**:
    - When a user visits the vulnerable website and clicks the button, they unknowingly interact with the attacker website, which can lead to data theft or unwanted downloads.
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 To run this demonstration locally, follow these steps:
 
 1. Clone the repository:
@@ -31,9 +31,5 @@ To run this demonstration locally, follow these steps:
 ## ⚠️ Important Note
 This demonstration is for educational purposes only. Do not use this knowledge for malicious activities. Always ensure that your applications are protected against such vulnerabilities.
 
-## 💬 Contributing
-Feel free to open issues or submit pull requests if you have suggestions for improvements or additional features!
 
 ---
-
-Happy Hacking! 🎉
