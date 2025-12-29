@@ -1,4 +1,4 @@
-JavaScript Security Toolkit
+### JavaScript Security Toolkit
 
 Welcome to the JavaScript Security Toolkit repository! This collection comprises a set of tools and best practices to fortify your JavaScript applications, specifically designed for ethical hackers and developers interested in enhancing the security of their projects. Please be advised that the contents of this toolkit are intended for educational purposes only and should never be used for any illegal or unethical activities.
 
